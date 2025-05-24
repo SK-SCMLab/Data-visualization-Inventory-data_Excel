@@ -1,4 +1,4 @@
-# 🏹 Inventory cost management: Data visualization with Excel charts
+# 🏹 Inventory cost management: Data visualization with Excel charts (Fundamental)
 This repository showcases to apply **fundamental data visualization techniques in Microsoft Excel** using real-world inventory datasets-focusing specifically on cost management. It demonstrates how to turn raw data into meaningful insights using charting tools that support decision-making in supply chain and operations
 
 ---
