@@ -31,8 +31,7 @@ Visualize key inventory metrics to:
 
 ## 🗂 Repository structure
 Inventories_dataset_visualization.xlsx
- - Sheet1: Raw data
- - Sheet2: Charts
+ - Sheet1: Raw data_charts
 
 ---
 
