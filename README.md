@@ -28,6 +28,14 @@ Visualize key inventory metrics to:
 - Tracks monthly holding, ordering, and shortage costs
 
 ---
+
+## 🗂 Repository structure
+Inventories_dataset_visualization.xlsx
+ - Sheet1: Raw data
+ - Sheet2: Charts
+
+---
+
 ## 📌 Use cases
 - Supply Chain cost optimization
 - Monthly KPI dashboards
