@@ -1,2 +1,30 @@
-# CostVisualization
-Fundamental visualization on Inventory data_Excel
+# 🏹 Inventory cost management: Data visualization with Excel charts
+This repository showcases to apply **fundamental data visualization techniques in Microsoft Excel** using real-world inventory datasets-focusing specifically on cost management. It demonstrates how to turn raw data into meaningful insights using charting tools that support decision-making in supply chain and operations
+
+---
+## ⛳️ Objective
+Visualize key inventory metrics to:
+- Monitor stock-related costs
+- Track inventory turnover
+- Highlight cost drivers and anomalies
+- Enable actionable insights for cost control
+
+---
+## 📊 Key Charts used
+### 💰 1. ** Cost vs. Inventory level chart **
+- Combo chart (Column + Line)
+- Visualizes how cost fluctuates with stock quantities
+
+### 📦 2. ** Inventory turnover rate **
+- Line chart with trendlines
+- Helps assess inventory efficiency over time
+
+### ⏱ 3. ** Stock aging vs. Holding cost **
+- Clustered column chart grouped by aging buckets
+- Highlights how aging inventory drives cost
+
+### 💹 4. ** Monthly inventory cost trends **
+- Stacked area or column chart
+- Tracks monthly holding, ordering, and shortage costs
+
+---
