@@ -28,3 +28,19 @@ Visualize key inventory metrics to:
 - Tracks monthly holding, ordering, and shortage costs
 
 ---
+## 📌 Use cases
+- Supply Chain cost optimization
+- Monthly KPI dashboards
+- Management reporting and presentations
+
+## 📐 Tools & Features used
+- Excel charts (Line, Column, Area, Combo)
+- Data labels, Axes Formatting, Legends
+- Conditional formatting for cost alerts
+
+## 📋 Requirements
+- Microsoft Excel 2016 or later
+- Basic understanding of inventory KPI and cost elements
+
+---
+_"What gets measured gets managed - and what gets visualized gets understood."_
