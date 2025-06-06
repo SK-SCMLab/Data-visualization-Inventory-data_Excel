@@ -11,19 +11,19 @@ Visualize key inventory metrics to:
 
 ---
 ## 📊 Key Charts used
-### 💰 1. ** Cost vs. Inventory level chart **
+### 💰 1. **Cost vs. Inventory level chart**
 - Combo chart (Column + Line)
 - Visualizes how cost fluctuates with stock quantities
 
-### 📦 2. ** Inventory turnover rate **
+### 📦 2. **Inventory turnover rate**
 - Line chart with trendlines
 - Helps assess inventory efficiency over time
 
-### ⏱ 3. ** Stock aging vs. Holding cost **
+### ⏱ 3. **Stock aging vs. Holding cost**
 - Clustered column chart grouped by aging buckets
 - Highlights how aging inventory drives cost
 
-### 💹 4. ** Monthly inventory cost trends **
+### 💹 4. **Monthly inventory cost trends**
 - Stacked area or column chart
 - Tracks monthly holding, ordering, and shortage costs
 
